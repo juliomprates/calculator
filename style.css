@@ -59,6 +59,7 @@
 }
 
 .calculator .buttons .clear {
+  width: 102px;
   color: rgb(255, 11, 11);
 }
 
