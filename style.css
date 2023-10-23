@@ -31,7 +31,7 @@
     5px 5px 15px rgba(0, 0, 0, 0.2);
   background-color: transparent;
   font-size: 20px;
-  color: #453b3b;
+  color: #000000;
   cursor: pointer;
   margin: 10px;
 }
@@ -63,6 +63,7 @@
   color: rgb(255, 11, 11);
 }
 
-.calculator .buttons .operator {
-  color: rgb(187, 5, 169);
+.calculator .buttons .operator,
+.calculator .buttons .equal {
+  color: rgb(115, 34, 190);
 }
